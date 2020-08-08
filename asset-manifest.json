@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccf8376c.chunk.css",
+    "main.js": "/static/js/main.ddd7a0f1.chunk.js",
+    "main.js.map": "/static/js/main.ddd7a0f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ce36c70a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ce36c70a.js.map",
+    "static/js/2.72a38899.chunk.js": "/static/js/2.72a38899.chunk.js",
+    "static/js/2.72a38899.chunk.js.map": "/static/js/2.72a38899.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.10248243f5749e2644b45a76c5b4636a.js": "/precache-manifest.10248243f5749e2644b45a76c5b4636a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ccf8376c.chunk.css.map": "/static/css/main.ccf8376c.chunk.css.map",
+    "static/js/2.72a38899.chunk.js.LICENSE.txt": "/static/js/2.72a38899.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/bg4.878fcdb1.svg",
+    "static/media/mcgill-library-V1IjTXINee0-unsplash.jpg": "/static/media/mcgill-library-V1IjTXINee0-unsplash.4fe0a017.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce36c70a.js",
+    "static/js/2.72a38899.chunk.js",
+    "static/css/main.ccf8376c.chunk.css",
+    "static/js/main.ddd7a0f1.chunk.js"
+  ]
+}
